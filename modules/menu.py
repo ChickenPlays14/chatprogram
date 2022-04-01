@@ -15,7 +15,6 @@ def games():
     print(" ")
     print("1) AoT")
     print("B) Back")
-    print("E) Exit")
 
 
 def randomstuff():
@@ -23,4 +22,3 @@ def randomstuff():
     print("1) Write to file")
     print("2) Read file")
     print("B) Back")
-    print("E) Exit")
